@@ -1,4 +1,4 @@
-/* eslint-disable no-process-exit */
+/* eslint-disable no-process-exit Amazing code*/
 require('dotenv').load();
 var Rx = require('rx'),
   uuid = require('node-uuid'),
